@@ -46,7 +46,7 @@ export default function Home() {
               placeholder="Enter your email address "
             ></input>
             <button className="bg-black font-extrabold w-44 h-12 p-1 text-lg text-white rounded-full  ">
-              Start free trails
+              Start free trail
             </button>
           </div>
         </div>
